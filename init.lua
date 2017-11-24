@@ -1,5 +1,6 @@
 -- Slugs. Found them on grass and dirt.
 -- Simple snake/wormlike creatures mod implementation for Minetest
+
 -- v 0.1, 2017.11.24    Initial, very buggy and ugly. Slugs are brainless, they just move for now.
 
 -------------------------------------------------------------------------------

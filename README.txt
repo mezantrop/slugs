@@ -10,4 +10,4 @@ can do whatever you want with this stuff. If we meet some day, and you think
 this stuff is worth it, you can buy me a beer in return Mikhail Zakharov
 -----------------------------------------------------------------------------
 
-Textures are inspired by [Mod] Worms and Snakes [worm] https://forum.minetest.net/viewtopic.php?f=9&t=17522
+Textures are inspired by: [Mod] Worms and Snakes [worm] https://forum.minetest.net/viewtopic.php?f=9&t=17522

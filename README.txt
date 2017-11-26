@@ -12,7 +12,7 @@ this stuff is worth it, you can buy me a beer in return Mikhail Zakharov
 
 Textures are inspired by: [Mod] Worms and Snakes [worm] https://forum.minetest.net/viewtopic.php?f=9&t=17522
 
-See details on:
+Discussion and details:
 https://forum.minetest.net/viewtopic.php?f=9&t=18873
 
 Short video:

@@ -18,4 +18,4 @@ https://forum.minetest.net/viewtopic.php?f=9&t=18873
 Short video:
 https://www.youtube.com/watch?v=3vZAIGXMFHY
 
-![Screenshot](https://github.com/mezantrop/slugs/blob/master/screenshot.png)
+![Screenshot](/screenshot.png)

@@ -1,3 +1,5 @@
+Warning! This project has been migrated to GitLab with the same name.
+
 Slugs. Find them on grass and dirt.
 Simple snake/wormlike creatures mod implementation for Minetest
 
